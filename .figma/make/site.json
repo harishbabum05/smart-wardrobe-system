@@ -1,0 +1,10 @@
+{
+  "description": "Personalized dress matching tool that suggests outfit combinations based on user profile and uploaded clothing images for tailored style guidance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
